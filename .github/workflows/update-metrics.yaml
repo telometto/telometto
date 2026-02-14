@@ -28,7 +28,7 @@ jobs:
           user: "telometto"
           template: "classic"
           base: header, activity, community, repositories, metadata
-          base_indepth: false
+          base_indepth: true
           config_timezone: "Europe/Oslo"
           plugin_languages: true
           plugin_languages_analysis_timeout: 15
